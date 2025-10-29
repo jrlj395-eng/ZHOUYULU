@@ -1,4 +1,4 @@
-import stearlit as st
+import streamlit as st
 st.title('test')
 st.write('hello')
 name=st.text_input('name')
